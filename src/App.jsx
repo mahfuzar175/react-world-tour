@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h2>React World Tour</h2>
+      <h2>My React World Tour</h2>
       <Countries></Countries>
     </>
   )
